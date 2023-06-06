@@ -1,4 +1,4 @@
-# global solution - fiap - edge computing
+# gs - edge
 
 # Sensor de Peso para Controle de Doações
 
