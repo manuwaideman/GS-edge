@@ -1,5 +1,3 @@
-# gs - edge
-
 # Sensor de Peso para Controle de Doações
 
 Este projeto consiste em um sistema de controle de doações de alimentos usando um sensor de peso conectado ao Arduino. O sensor de peso é utilizado para medir a quantidade de alimentos doados, fornecendo informações precisas para garantir uma distribuição equitativa.
