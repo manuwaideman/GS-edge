@@ -30,3 +30,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma "issue" ou e
 - Manoella Herrerias Waideman - RM98906
 - Pedro Henrique Palladino - RM551180
 - Renato Izumi Ichikawa - RM99242
+
+## Links
+- Tinkercad: https://www.tinkercad.com/things/a6W2sMbXQxe
+- Youtube: 
