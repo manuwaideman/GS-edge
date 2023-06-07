@@ -1,23 +1,27 @@
-# Sensor de Peso para Controle de Doações
+# Balança de Peso para Controle de Doações
 
-Este projeto consiste em um sistema de controle de doações de alimentos usando um sensor de peso conectado ao Arduino. O sensor de peso é utilizado para medir a quantidade de alimentos doados, fornecendo informações precisas para garantir uma distribuição equitativa.
+Este projeto consiste em um sistema de controle de doações de alimentos usando um sensor de peso conectado ao Arduino. O sensor de peso é utilizado para medir a quantidade de alimentos doados, fornecendo informações para garantir uma distribuição equitativa.
 
-![gs - edge (arduino)](https://github.com/manuwaideman/GS-edge/assets/98489323/f8741b10-b6c4-4d3f-b638-287e90d94f0d)
+![Captura de tela 2023-06-07 135314](https://github.com/manuwaideman/GS-edge/assets/98489323/f08570eb-e89a-4660-ac73-03da0a0b124d)
 
 ## Funcionalidades
 
-- Medição precisa do peso dos alimentos doados.
-- Visualização dos valores de peso no Monitor Serial do Arduino.
+- Medição do peso dos alimentos doados.
+- Visualização dos valores de peso na placa LCD.
 
 ## Componentes
 
-- Arduino Uno.
-- Potenciômetro.
+- 1	Arduino Uno R3;
+- 1	Potenciômetro 250 kΩ;
+- 1	LED vermelho;
+- 1	Resistor de 300 Ω;
+- 1	Sensor de força;
+- 1	Resistor de 10 kΩ;
+- 1	LCD 16 x 2;
+- 1	Resistor de 220 Ω.
 
-## Uso
-
-1. Abra o Monitor Serial no Arduino IDE (botão com ícone de lupa no canto superior direito ou `Ctrl + Shift + M`).
-2. Você verá as leituras do peso doado sendo exibidas no Monitor Serial. Gire o potenciômetro (ou ajuste o valor simulado no Tinkercad) para simular diferentes leituras de peso.
+## Desenvolvimento
+- Adicionamos na placa de ensaio um LCD para visualização do peso. Tendo também, o Sensor de força, que conforme acionado, será proporcionado o peso desejado para a doação (aparecendo no LCD). Utilizamos 3 resistores, um de 10kΩ, um de 200Ω e um de 300Ω, led para avisar quando está sendo medido a quantidade de doação e um potenciômetro.
 
 ## Contribuição
 
@@ -32,5 +36,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma "issue" ou e
 - Renato Izumi Ichikawa - RM99242
 
 ## Links
-- Tinkercad: https://www.tinkercad.com/things/a6W2sMbXQxe
-- Youtube: 
+- Tinkercad: https://www.tinkercad.com/things/a1oIkNsIJ2h
+- Youtube: https://youtu.be/o5INxavYt8E
