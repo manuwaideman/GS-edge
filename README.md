@@ -21,7 +21,7 @@ Este projeto consiste em um sistema de controle de doações de alimentos usando
 - 1	Resistor de 220 Ω.
 
 ## Desenvolvimento
-- Adicionamos na placa de ensaio um LCD para visualização do peso. Tendo também, o Sensor de força, que conforme acionado, será proporcionado o peso desejado para a doação (aparecendo no LCD). Utilizamos 3 resistores, um de 10kΩ, um de 200Ω e um de 300Ω, led para avisar quando está sendo medido a quantidade de doação e um potenciômetro.
+Adicionamos na placa de ensaio um LCD para visualização do peso. Tendo também, o Sensor de força, que conforme acionado, será proporcionado o peso desejado para a doação (aparecendo no LCD). Utilizamos 3 resistores, um de 10kΩ, um de 200Ω e um de 300Ω, led para avisar quando está sendo medido a quantidade de doação e um potenciômetro.
 
 ## Contribuição
 
